@@ -1,7 +1,7 @@
 Evernote to Toodledo converter
 ==============================
 
-Usecase
+Usesage
 -------
 Converts from Evernote .enex format to Toodledo version 6 .xml format
 

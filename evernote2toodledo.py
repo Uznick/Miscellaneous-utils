@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+VERSION = (0, 1, 'alpha', 1)
+
 from lxml import etree
 import datetime
 
